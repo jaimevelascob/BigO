@@ -44,4 +44,4 @@ B = [[5,6],
     [7,8]]
 c = np.dot(A,B)
 
-Big O = n(n)
+Big O = 0(n*n*n)
